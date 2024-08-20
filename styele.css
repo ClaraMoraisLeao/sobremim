@@ -1,0 +1,20 @@
+h1{
+    color: deeppink;
+    text-align: center;
+}
+
+h2{
+    color: deeppink;
+    
+}
+
+p{
+    color: rgb(185, 116, 166);
+    display: flex;
+}
+img{
+    margin-left: 750px;
+}
+body{
+    background-color: black;
+}
